@@ -6,6 +6,7 @@
  |     |      |
 |------------|-------------|-------------|
 | <img src="assests/Tiger.png">| <img src="assests/Cheetha.png"> |  <img src="assests/Jaguar.png"> |
+|             |            |            |
  
  
  
