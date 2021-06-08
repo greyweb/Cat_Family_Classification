@@ -5,7 +5,7 @@
  
  |     |      |
 |------------|-------------|-------------|
-| <img src="assests/Tiger.png">| <img src="assests/Cheetah.png"> |  <img src="assests/Tiger.png"> |
+| <img src="assests/Tiger.png">| <img src="assests/Cheetha.png"> |  <img src="assests/Jaguar.png"> |
  
  
  
